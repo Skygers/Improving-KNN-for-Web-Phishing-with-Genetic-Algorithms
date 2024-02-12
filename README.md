@@ -1,0 +1,2 @@
+# Optimizing K-Nearest Neighbors for Web Phishing Detection through Genetic Algorithm-driven Feature Selection
+  Groundbreaking approach aimed at enhancing the effectiveness of K-Nearest Neighbors (KNN) algorithm in identifying and mitigating web phishing threats. By integrating the power of Genetic Algorithms (GA) with KNN, this innovative method optimizes feature selection, thus significantly improving the algorithm's performance in distinguishing between legitimate and malicious web content.
